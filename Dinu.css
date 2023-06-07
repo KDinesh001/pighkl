@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding :0;
+  font-family: sans-serif;
+
+}
+
+h1{
+    color:whitesmoke;
+    font-size: 70px;
+    margin-top: 80px;
+}
+h2{
+  color:whitesmoke;
+  
+}
+p{
+  color: azure;
+  margin: 20px auto;
+  font-weight: 100px;
+  line-height: 25px;
+}
+.banner{
+  width:100%;
+  height:100vh;
+
+  background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(back.JPG) ;
+  background-position: center;
+  background-size: cover;
+
+}
+img{
+  
+  border-top-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-top-right-radius: 50%;
+  border-bottom-left-radius: 50%;
+}
+
+
